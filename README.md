@@ -119,11 +119,6 @@ For detailed instructions on using the start script, including character managem
 
 ---
 
-### Add more plugins
-
-1. run `npx elizaos plugins list` to get a list of available plugins or visit https://elizaos.github.io/registry/
-
-2. run `npx elizaos plugins add @elizaos-plugins/plugin-NAME` to install the plugin into your instance
 
 #### Additional Requirements
 
