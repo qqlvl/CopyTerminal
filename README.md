@@ -6,18 +6,18 @@
 
 <div align="center">
 
-| 🎯 [Agent](https://x.com/CopyTerminal) | ⭐️ [Web](https://x.com/CopyTerminal)
+🎯 [Agent](https://x.com/CopyTerminal) | ⭐️ [Web](https://x.com/CopyTerminal)
 
 </div>
 
 
 ## 🎯 Use Cases
 
-- 🤖 Chatbots
 - 🕵️ Autonomous Agents
-- 📈 Business Process Handling
-- 🎮 Video Game NPCs
-- 🧠 Trading
+- 📈 Scan Solana blockchain
+- 🎮 Analyzes their behavior
+- 🧠 Finds profitable wallets
+- 🤖 Copytrades automatically
 
 ## 🚀 Quick Start
 
