@@ -6,7 +6,7 @@
 
 <div align="center">
 
- ⭐️ [Twitter](https://x.com/CopyMeFun) | 🎯 [Agent](https://x.com/CopyTerminal) | ⭐️ [Web](https://x.com/CopyTerminal)
+ 🔋 [Twitter](https://x.com/CopyMeFun) | 🎯 [Agent](https://x.com/CopyTerminal) | ⭐️ [Web](https://x.com/CopyTerminal)
 
 </div>
 
